@@ -5,7 +5,6 @@ mac_changer - Change your MAC Address - Change the network identity of your devi
 mac_changer is intented ONLY for EDUCATIONAL PURPOSES.
 
 ## Requirements
-Kali Linux,
 Python3
 
 ## Usage
