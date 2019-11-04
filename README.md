@@ -1,16 +1,13 @@
-# mac_changer
-mac_changer - Change your MAC Address - Change the network identity of your device (EASIER and FASTER than EVER)
+# Mac_changer
+mac_changer - Change your MAC Address - Change the network identity of your device (EASIER and FASTER than EVER). Please visit my website [post](https://leuvaapurv.github.io/mac_changer/).
 
-# Desclaimer
+## Desclaimer
 mac_changer is intented ONLY for EDUCATIONAL PURPOSES.
 
-# How to install:
+# ow to install:
 git clone https://github.com/LeuvaApurv/mac_changer
 
 # How to Use:
 cd mac_changer
 
 python3 mac_changer.py --help
-
-
-https://leuvaapurv.github.io/mac_changer/
