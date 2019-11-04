@@ -7,6 +7,12 @@ mac_changer is intented ONLY for EDUCATIONAL PURPOSES.
 ## Requirements
 Python3
 
+## Install
+```
+# git clone https://github.com/LeuvaApurv/mac_changer
+# cd mac_changer
+```
+
 ## Usage
 Run the python script and change new mac address.
 
