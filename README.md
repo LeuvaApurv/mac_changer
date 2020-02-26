@@ -11,7 +11,7 @@ Python3
 ```bash
 git clone https://github.com/LeuvaApurv/mac_changer.git
 cd mac_changer
-python3 mac_changer.py
+python3 mac_changer.py -i eth0 -m 00:11:22:33:44:55
 ```
 
 ## Help
