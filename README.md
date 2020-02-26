@@ -8,6 +8,7 @@ mac_changer is intented ONLY for EDUCATIONAL PURPOSES.
 Python3
 
 ## Installation
+Instructions on how to install *mac_changer*
 ```bash
 sudo git clone https://github.com/LeuvaApurv/mac_changer.git
 cd mac_changer
@@ -35,4 +36,5 @@ Options:
 sudo python3 mac_change.py -i eth0 -m 00:11:22:33:44:55
 
 [+] Changing MAC address for eth0 to 00:11:22:33:44:55
+
 ```
